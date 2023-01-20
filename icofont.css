@@ -33,54 +33,39 @@ url("./fonts/icofont.woff") format("woff");
   -webkit-font-smoothing: antialiased;
 }
 
-.icofont-navigation-menu:before
+.icofont-file-pdf:before
 {
-  content: "\efa2";
+  content: "\eb1e";
 }
 
-.icofont-telegram:before
+.icofont-cloud-download:before
 {
-  content: "\ed75";
+  content: "\eee5";
 }
 
-.icofont-facebook:before
+.icofont-badge:before
 {
-  content: "\ed37";
+  content: "\eeaa";
 }
 
-.icofont-linkedin:before
+.icofont-ui-user:before
 {
-  content: "\ed4d";
+  content: "\ec8e";
 }
 
-.icofont-trophy:before
+.icofont-rulers-alt:before
 {
-  content: "\edd7";
+  content: "\ec02";
 }
 
-.icofont-ui-rating:before
+.icofont-ui-note:before
 {
-  content: "\ec7c";
+  content: "\ec6f";
 }
 
-.icofont-location-pin:before
+.icofont-envelope:before
 {
-  content: "\ef79";
-}
-
-.icofont-clock-time:before
-{
-  content: "\eedc";
-}
-
-.icofont-close:before
-{
-  content: "\eee4";
-}
-
-.icofont-simple-up:before
-{
-  content: "\eab9";
+  content: "\ef14";
 }
 
 .icofont-xs
